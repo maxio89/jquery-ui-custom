@@ -1,0 +1,10 @@
+{
+    "name": "jquery-ui-custom",
+    "version": "1.10.4",
+    "main": [
+        "js/jquery-ui-1.10.4.custom.js"
+    ],
+    "dependencies": {
+        "jquery": ">=1.6"
+    }
+}
